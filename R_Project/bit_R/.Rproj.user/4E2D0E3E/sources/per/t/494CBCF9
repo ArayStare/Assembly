@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512011800788.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3066587247",
+    "id" : "494CBCF9",
+    "lastKnownWriteTime" : 1512022745,
+    "last_content_update" : 1512022745171,
+    "path" : "D:/jjc/R/R_Project/bit_R/S1.R",
+    "project_path" : "S1.R",
+    "properties" : {
+        "cursorPosition" : "25,64",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

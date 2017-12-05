@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512005048714.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "11|27|13|0|\n",
+    "hash" : "409198243",
+    "id" : "C21CD43E",
+    "lastKnownWriteTime" : 1512023720,
+    "last_content_update" : 1512023720205,
+    "path" : "D:/jjc/R/R_Project/bit_R/R_report01.Rmd",
+    "project_path" : "R_report01.Rmd",
+    "properties" : {
+        "chunk_output_type" : "console",
+        "cursorPosition" : "49,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "40",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
